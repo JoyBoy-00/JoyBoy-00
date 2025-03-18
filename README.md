@@ -4,9 +4,9 @@
 
 ## 🌐 Socials:
 [![Website](https://img.shields.io/badge/Website-Gaurav-green?style=for-the-badge&logo=google-chrome)]()  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gaurav-Kumar-blue?style=for-the-badge&logo=linkedin)]()  
-[![Twitter](https://img.shields.io/badge/Instagram-Gaurav-Kumar-pink?style=for-the-badge&logo=twitter)](  
-[![GitHub](https://img.shields.io/badge/GitHub-JoyBoy-00-black?style=for-the-badge&logo=github)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gaurav_Kumar-blue?style=for-the-badge&logo=linkedin)]()  
+[![Twitter](https://img.shields.io/badge/Instagram-Gaurav_Kumar-pink?style=for-the-badge&logo=twitter)](  
+[![GitHub](https://img.shields.io/badge/GitHub-JoyBoy-black?style=for-the-badge&logo=github)]()
 
 
 # 💻 Tech Stack:
